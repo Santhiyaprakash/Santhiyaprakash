@@ -1,35 +1,30 @@
-<h2 align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">Hi there! 👋 I'm Santhiya, a Passionate Junior Developer from India 🌟</h2>
+# Hi there! 👋 I'm Santhiya, a Passionate Junior Developer from India 🌟
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=false&vCenter=true&width=435&lines=Junior+Developer+%7C+Learner;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-###
+---
 
+## 🌟 GitHub Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Santhiyaprakash&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide_title=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhiyaprakash&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
-###
+---
 
-<h3 align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">🌟 A Little About Me 🌟</h3>
-<p align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">
+## 🌟 A Little About Me
 I'm a junior developer with a strong passion for solving problems and building innovative solutions. Here's a glimpse of my core skills:
-</p>
 
-<div align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">
-  <ul>
-    <li>⚡ Adaptability</li>
-    <li>🔥 Leadership</li>
-    <li>🕒 Time Management</li>
-  </ul>
-</div>
+- ⚡ Adaptability
+- 🔥 Leadership
+- 🕒 Time Management
 
-###
+---
 
-<h3 align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">💻 My Technical Toolkit 💻</h3>
-<p align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">
+## 💻 My Technical Toolkit
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -41,30 +36,24 @@ I'm a junior developer with a strong passion for solving problems and building i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </p>
 
-###
+---
 
-<h3 align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">🚀 What I'm Currently Working On 🚀</h3>
-<div align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">
-  <ul>
-    <li>🛡️ Efficient Malware Detection using JDAX Algorithm</li>
-    <li>🏫 Complaint Management System (for College)</li>
-  </ul>
-</div>
+## 🚀 What I'm Currently Working On
 
-###
+- 🛡️ Efficient Malware Detection using JDAX Algorithm
+- 🏫 Complaint Management System (for College)
 
-<h3 align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">✨ Fun Facts About Me ✨</h3>
-<div align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">
-  <ul>
-    <li>🚀 I love solving puzzles and coding challenges</li>
-    <li>🎨 I'm passionate about creating clean and professional UI designs</li>
-    <li>📖 Always eager to learn and explore new technologies</li>
-  </ul>
-</div>
+---
 
-###
+## ✨ Fun Facts About Me
 
-<h3 align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">🌐 Let's Connect 🌐</h3>
+- 🚀 I love solving puzzles and coding challenges
+- 🎨 I'm passionate about creating clean and professional UI designs
+- 📚 Always eager to learn and explore new technologies
+
+---
+
+## 🌐 Let's Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/santhiya-prakash-87449425a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
@@ -79,3 +68,7 @@ I'm a junior developer with a strong passion for solving problems and building i
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=1EAA43&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank" />
   </a>
 </div>
+
+---
+
+_Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate._
