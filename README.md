@@ -10,6 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Santhiyaprakash&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide_title=false" height="150" alt="GitHub Stats" />
  <img src="https://github-profile-trophy.vercel.app/?username=Santhiyaprakash&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" height="150" alt="GitHub Trophies" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhiyaprakash&layout=compact&theme=radical" height="150" alt="GitHub Streak" />
+![GitHub Snake Light](https://github.com/Santhiyaprakash/Santhiyaprakash/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Santhiyaprakash/Santhiyaprakash/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 </div>
 
 ###
