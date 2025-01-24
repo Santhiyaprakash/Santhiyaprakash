@@ -8,7 +8,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Santhiyaprakash&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide_title=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=Santhiyaprakash&theme=radical&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhiyaprakash&layout=compact&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
 ###
@@ -22,7 +22,7 @@ I'm a junior developer with a strong passion for solving problems and building i
   <ul>
     <li>⚡ Adaptability</li>
     <li>🔥 Leadership</li>
-    <li>👖 Time Management</li>
+    <li>🕒 Time Management</li>
   </ul>
 </div>
 
@@ -47,7 +47,7 @@ I'm a junior developer with a strong passion for solving problems and building i
 <div align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">
   <ul>
     <li>🛡️ Efficient Malware Detection using JDAX Algorithm</li>
-    <li>🏧 Complaint Management System (for College)</li>
+    <li>🏫 Complaint Management System (for College)</li>
   </ul>
 </div>
 
