@@ -8,8 +8,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Santhiyaprakash&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide_title=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Santhiyaprakash&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" />
-
+ <img src="https://github-profile-trophy.vercel.app/?username=Santhiyaprakash&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" height="150" alt="GitHub Trophies" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhiyaprakash&layout=compact&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
