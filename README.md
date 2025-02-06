@@ -1,6 +1,6 @@
 <h2 align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">Hi there! 👋 I'm Santhiya, a Passionate Junior Developer from India 🌟</h2>
 
-<div>
+<div style="marigin-top=10%">
 
 
  <img src="https://github-profile-trophy.vercel.app/?username=Santhiyaprakash&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=19" height="150" alt="GitHub Trophies" />
