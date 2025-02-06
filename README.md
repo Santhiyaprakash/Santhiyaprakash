@@ -2,7 +2,8 @@
 
 <div>
 
- <img src="https://github-profile-trophy.vercel.app/?username=Santhiyaprakash&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" height="150" alt="GitHub Trophies" />
+
+ <img src="https://github-profile-trophy.vercel.app/?username=Santhiyaprakash&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=19" height="150" alt="GitHub Trophies" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhiyaprakash&layout=compact&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
