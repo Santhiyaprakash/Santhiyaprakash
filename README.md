@@ -1,8 +1,6 @@
 <h2 align="left" style="font-family: 'Arial', sans-serif; line-height: 1.5;">Hi there! 👋 I'm Santhiya, a Passionate Junior Developer from India 🌟</h2>
 
 <div style="marigin-top=10%">
-
-
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhiyaprakash&layout=compact&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
